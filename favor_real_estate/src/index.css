@@ -2,17 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
-.form-input{
-    @apply mt-1 block w-full py-2 px-3 border border-gray-200 bg-white rounded-md focus:outline-none focus:ring-indigo-500 sm:text-sm;
-  } 
+/* Tailwind CSS */
+.form-input {
+  @apply block w-full py-2 px-3 border border-gray-200 bg-white rounded-md focus:outline-none focus:ring-indigo-500 text-sm;
+}
 
-
-/* custom css */
+/* Custom CSS */
 .title-on-image {
   position: absolute;
-  right: 15%;
-  left: 15%;
-  bottom: 45%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .head-text {
@@ -20,8 +20,8 @@
 }
 
 .text-on-image {
- position: absolute;
- right: 45%;
- left: 45%;
- bottom: 45%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
