@@ -16,8 +16,8 @@ function Buy() {
     },[])
     return(
         <div>
-            <LocationCategory  />
-        </div>
+            <LocationCategory houses={houses} />
+       </div>
     )
 }
 
