@@ -43,3 +43,6 @@
 .hover:text-gray-100:hover {
   color: #FFFFFF;
 }
+.bg-navy-blue {
+  background-color: navy;
+}
