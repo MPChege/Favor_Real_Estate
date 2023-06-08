@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
-      <div style={{ background: 'darkblue' }}>
-        <footer className="px-8 py-8 text-white">
+    <div style={{ background: 'rgb(61, 61, 126)' }}>
+      <footer className="px-8 py-8 text-white">
           <div className="grid grid-cols-2 md:grid-cols-4 md:py-16 gap-y-4">
             <div className="my-4">
               <div className="uppercase font-semibold mb-2">Vibes Propertiess</div>
