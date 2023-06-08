@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-// import HeroImg from "../assets/hero.jpg"
 
 const Hero = () => {
     return ( 
@@ -8,7 +7,7 @@ const Hero = () => {
                 <div className="">
                     <img 
                         className="hero-image rounded-md" 
-                        src="http://www.slidebackground.com/uploads/real-estate-background/real-estate-homebuy-home-banner-background-homebuym-1.jpg" 
+                        src="https://www.wallpapertip.com/wmimgs/244-2441991_modern-house-wallpaper.jpghttps://example.com/new-background-image.jpg" // Replace with the URL of the new background image
                         alt="Hero here.." />
                 </div>
                 <div className=" flex flex-col justify-center">
@@ -24,7 +23,6 @@ const Hero = () => {
                         </Link>
                     </div>
                 </div> 
-
             </div>           
         </div>
      );

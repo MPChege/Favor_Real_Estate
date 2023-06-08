@@ -10,12 +10,13 @@
 /* Custom CSS */
 .title-on-image {
   position: absolute;
-  top: 40%; /* Adjust the value to move the title up */
+  top: 20%; /* Adjust the value to move the title up */
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #fff;
-  font-size: 2rem;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  color: #ffffff;
+  font-size: 0.1rem; /* Adjust the font size as desired */
+  text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.6);
+  font-family: sans-serif; /* Set the font family to sans-serif */
 }
 
 .head-text {
