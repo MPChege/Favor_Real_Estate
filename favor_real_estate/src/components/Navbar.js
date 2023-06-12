@@ -43,7 +43,7 @@ const Navbar = () => {
                 <Link to="/contact" className="hover:text-gray-100">
                   Contact
                 </Link>
-                  </li>                         
+              </li>                         
             </ul>
           </div>
         </div>
@@ -53,4 +53,3 @@ const Navbar = () => {
 };
 
 export default Navbar;
-

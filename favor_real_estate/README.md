@@ -1,4 +1,4 @@
-# Jamii Properties
+# VIBE PROPERETIES
 
 #### Created By (Mark Paul Chege) on 07-06-2023
 
@@ -23,8 +23,6 @@ The following have been used on this project:
 - JavaScript
 - Ruby
 
-#### Live link to view the project <a href="https://real-estate-app-lilac-one.vercel.app/">View Fin-News</a>
-
 ## Known Bugs
 
 So far so good there are no bugs related to this project
@@ -43,6 +41,10 @@ To make a contribution to the code used or any suggestions you can click on the 
 
 - Email:
   Mark.chege@student.moringaschool.com
+
+## Backed link
+
+https://github.com/MPChege/phase-3-sinatra-react-project
 
 ## License
 
